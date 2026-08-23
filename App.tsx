@@ -21,7 +21,7 @@ type Todo = {
 };
 
 const starterTodos: Todo[] = [
-  {id: '1', title: 'Plan a focused morning', completed: true},
+  {id: '1', title: 'Plan a focused mornin', completed: true},
   {id: '2', title: 'Finish the project brief', completed: false},
   {id: '3', title: 'Take a 15-minute walk', completed: false},
 ];
